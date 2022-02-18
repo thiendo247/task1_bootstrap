@@ -2,7 +2,7 @@ Task1:  Tìm hiều về bootstrap
 1.	What?
 -	Là một nền tảng front-end framework mã nguồn mã sử dụng HTML, CSS, Javascript dùng để thiết kế web một cách nhanh chóng và linh hoạt trên đa thiết bị. Bootstrap giúp cho việc xây dựng và thiết kế mấu website chuẩn responsive design
 -	Bootstrap chứa các tập tin JS, CSS và font được biên dịch và nén lại. Được cung cấp sẵn các thành phần cơ bản: navigation, button, form, table, …
-- Mục tiêu chính là tạo ra reponsive website: cho phép giao diện người dùng trang web có thể hoạt động trên mọi kích thước màn hình(điện thoại, tablet, màn hình máy tính,..)
+-   Mục tiêu chính là tạo ra reponsive website: cho phép giao diện người dùng trang web có thể hoạt động trên mọi kích thước màn hình(điện thoại, tablet, màn hình máy tính,..)
 -	Chức năng: 
     + Cho phép sử dụng thư viện hỗ trợ trong quá trình xây dựng website
     + Tái sử dụng các thành phần lặp lại
@@ -11,15 +11,14 @@ Task1:  Tìm hiều về bootstrap
     + Hỗ trợ thư viện Icon(Glyphicons) giảm thiểu được sử dụng các hình ảnh biểu tượng và tăng tốc độ tải trang
 
 2.	Why?
-- Được dùng để thiết kế theo chuẩn website, nên là chất lượng thiết kế và xây dựng web cao
--	Dễ sử dụng:  
-- Dễ tùy chỉnh: có thể tùy chọn các thành phần phù hợp với thiết kế mình muốn (chỉnh sửa file CSS)
-- Giúp tiết kiệm dung lượng mà không cần tải sourch-code về máy nhờ link CDN Bootstrap
+-   Được dùng để thiết kế theo chuẩn website, nên là chất lượng thiết kế và xây dựng web cao
+-	Dễ sử dụng: ai cũng có thể sử dụng một cách nhanh chóng
+-   Dễ tùy chỉnh: có thể tùy chọn các thành phần phù hợp với thiết kế mình muốn (chỉnh sửa file CSS)
+-   Giúp tiết kiệm dung lượng mà không cần tải sourch-code về máy nhờ link CDN Bootstrap
 -	Tương thích với nhiều trình duyệt
-- Tiết kiệm được thời gian: có nhiều block được xây dựng sẵn giúp dễ dàng hoàn thành công việc
-- Mã nguồn mở: có thể phát triển thêm
+-   Tiết kiệm được thời gian: có nhiều block được xây dựng sẵn giúp dễ dàng hoàn thành công việc thay vì xây dựng HTML, CSS thuần
+-   Mã nguồn mở: có thể phát triển thêm cho hoàn thiện và đóng góp cho cộng đồng
 
 3.	When?
 -	Chúng ta có thể sử dụng bất kỳ khi nào nếu muốn thiết kế front-end website
 -	Nên sử dụng bootstrap khi đã hiểu cơ bản về html, css, js bởi vì khi chưa có kiến thức cơ bản về bootstrap sẽ dễ gây ra nhầm lẫn và không thực sự hiểu code
-
